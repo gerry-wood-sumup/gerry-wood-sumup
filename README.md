@@ -93,7 +93,7 @@ I am a senior engineer with over 8 years of experience building iOS mobile appli
 
 
 ## Github Stats  
-# <table><tr><td valign="top" width="50%">
+<!-- <table><tr><td valign="top" width="50%">
 
 # <img src="https://github-readme-stats.vercel.app/api?username=gerry-wood-sumup&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="left" style="width: 100%" />
 
@@ -101,7 +101,8 @@ I am a senior engineer with over 8 years of experience building iOS mobile appli
 
 # <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerry-wood-sumup&hide_border=true&layout=compact&theme=transparent" align="left" style="width: 100%" />
 
-# </td></tr></table>  
+# </td></tr></table>
+-->
 
 <br/>  
 
