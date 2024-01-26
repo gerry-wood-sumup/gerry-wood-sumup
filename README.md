@@ -91,9 +91,9 @@ I am a senior engineer with over 8 years of experience building iOS mobile appli
 
 <br/>  
 
-
+<!--
 ## Github Stats  
-<!-- <table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%">
 
 # <img src="https://github-readme-stats.vercel.app/api?username=gerry-wood-sumup&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="left" style="width: 100%" />
 
